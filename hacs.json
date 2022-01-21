@@ -1,3 +1,4 @@
 {
-    "name": "Hass Emulated Hue"
+    "name": "Hass Emulated Hue",
+    "render_readme": "true"
 }
