@@ -33,8 +33,8 @@ Clone this repository or download the source code as a zip file and add/merge th
 In order for the newly added integration to be loaded, HA needs to be restarted.
 
 ### Step 3: Add integration to HA
-In HA, go to Configuration > Integrations.
-In the bottom right corner, click on the big button with a '+'.
+In HA, go to Configuration > Devices & Services.
+In the bottom right corner, click on the big button with a '+ Add Integration'.
 
 If the component is properly installed, you should be able to find the 'Hass Emulated Hue' in the list. You might need to clear you browser cache for the integration to show up.
 
