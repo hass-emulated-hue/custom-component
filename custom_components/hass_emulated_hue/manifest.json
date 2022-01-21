@@ -1,0 +1,9 @@
+{
+  "domain": "hass_emulated_hue",
+  "name": "Hass Emulated Hue",
+  "documentation": "https://github.com/hass-emulated-hue/core-integration",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/hass-emulated-hue/core-integration/issues",
+  "version": "0.0.1",
+  "config_flow": true
+}
