@@ -1,4 +1,5 @@
 {
     "name": "Hass Emulated Hue",
-    "render_readme": "true"
+    "render_readme": "true",
+    "domains": ["hass_emulated_hue"]
 }
